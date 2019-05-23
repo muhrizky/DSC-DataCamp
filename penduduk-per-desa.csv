@@ -1,0 +1,73 @@
+_id,idx,vervar,var,turvar,tahun,turtahun,nilai
+1,0,Batahan,Rata-rata Penduduk per desa/kelurahan,,2013,,994
+2,1,Batahan,Rata-rata Penduduk per desa/kelurahan,,2014,,1025
+3,2,Batahan,Rata-rata Penduduk per desa/kelurahan,,2015,,1037
+4,3,Sinunukan,Rata-rata Penduduk per desa/kelurahan,,2013,,1121
+5,4,Sinunukan,Rata-rata Penduduk per desa/kelurahan,,2014,,1157
+6,5,Sinunukan,Rata-rata Penduduk per desa/kelurahan,,2015,,1170
+7,6,Batang Natal,Rata-rata Penduduk per desa/kelurahan,,2013,,744
+8,7,Batang Natal,Rata-rata Penduduk per desa/kelurahan,,2014,,767
+9,8,Batang Natal,Rata-rata Penduduk per desa/kelurahan,,2015,,776
+10,9,Lingga Bayu,Rata-rata Penduduk per desa/kelurahan,,2013,,1206
+11,10,Lingga Bayu,Rata-rata Penduduk per desa/kelurahan,,2014,,1246
+12,11,Lingga Bayu,Rata-rata Penduduk per desa/kelurahan,,2015,,1260
+13,12,Ranto Baek,Rata-rata Penduduk per desa/kelurahan,,2013,,639
+14,13,Ranto Baek,Rata-rata Penduduk per desa/kelurahan,,2014,,659
+15,14,Ranto Baek,Rata-rata Penduduk per desa/kelurahan,,2015,,666
+16,15,Kotanopan,Rata-rata Penduduk per desa/kelurahan,,2013,,745
+17,16,Kotanopan,Rata-rata Penduduk per desa/kelurahan,,2014,,768
+18,17,Kotanopan,Rata-rata Penduduk per desa/kelurahan,,2015,,776
+19,18,Ulu Pungkut,Rata-rata Penduduk per desa/kelurahan,,2013,,334
+20,19,Ulu Pungkut,Rata-rata Penduduk per desa/kelurahan,,2014,,344
+21,20,Ulu Pungkut,Rata-rata Penduduk per desa/kelurahan,,2015,,347
+22,21,Tambangan,Rata-rata Penduduk per desa/kelurahan,,2013,,586
+23,22,Tambangan,Rata-rata Penduduk per desa/kelurahan,,2014,,603
+24,23,Tambangan,Rata-rata Penduduk per desa/kelurahan,,2015,,611
+25,24,Lembah Sorik Marapi,Rata-rata Penduduk per desa/kelurahan,,2013,,1771
+26,25,Lembah Sorik Marapi,Rata-rata Penduduk per desa/kelurahan,,2014,,1825
+27,26,Lembah Sorik Marapi,Rata-rata Penduduk per desa/kelurahan,,2015,,1844
+28,27,Puncak Sorik Marapi,Rata-rata Penduduk per desa/kelurahan,,2013,,738
+29,28,Puncak Sorik Marapi,Rata-rata Penduduk per desa/kelurahan,,2014,,761
+30,29,Puncak Sorik Marapi,Rata-rata Penduduk per desa/kelurahan,,2015,,769
+31,30,Muara Sipongi,Rata-rata Penduduk per desa/kelurahan,,2013,,617
+32,31,Muara Sipongi,Rata-rata Penduduk per desa/kelurahan,,2014,,636
+33,32,Muara Sipongi,Rata-rata Penduduk per desa/kelurahan,,2015,,643
+34,33,Pakantan,Rata-rata Penduduk per desa/kelurahan,,2013,,274
+35,34,Pakantan,Rata-rata Penduduk per desa/kelurahan,,2014,,282
+36,35,Pakantan,Rata-rata Penduduk per desa/kelurahan,,2015,,285
+37,36,Panyabungan,Rata-rata Penduduk per desa/kelurahan,,2013,,2027
+38,37,Panyabungan,Rata-rata Penduduk per desa/kelurahan,,2014,,2093
+39,38,Panyabungan,Rata-rata Penduduk per desa/kelurahan,,2015,,2115
+40,39,Panyabungan Selatan,Rata-rata Penduduk per desa/kelurahan,,2013,,874
+41,40,Panyabungan Selatan,Rata-rata Penduduk per desa/kelurahan,,2014,,900
+42,41,Panyabungan Selatan,Rata-rata Penduduk per desa/kelurahan,,2015,,909
+43,42,Panyabungan Barat,Rata-rata Penduduk per desa/kelurahan,,2013,,910
+44,43,Panyabungan Barat,Rata-rata Penduduk per desa/kelurahan,,2014,,938
+45,44,Panyabungan Barat,Rata-rata Penduduk per desa/kelurahan,,2015,,948
+46,45,Panyabungan Utara,Rata-rata Penduduk per desa/kelurahan,,2013,,1701
+47,46,Panyabungan Utara,Rata-rata Penduduk per desa/kelurahan,,2014,,1754
+48,47,Panyabungan Utara,Rata-rata Penduduk per desa/kelurahan,,2015,,1772
+49,48,Panyabungan Timur,Rata-rata Penduduk per desa/kelurahan,,2013,,838
+50,49,Panyabungan Timur,Rata-rata Penduduk per desa/kelurahan,,2014,,863
+51,50,Panyabungan Timur,Rata-rata Penduduk per desa/kelurahan,,2015,,872
+52,51,Huta Bargot,Rata-rata Penduduk per desa/kelurahan,,2013,,417
+53,52,Huta Bargot,Rata-rata Penduduk per desa/kelurahan,,2014,,422
+54,53,Huta Bargot,Rata-rata Penduduk per desa/kelurahan,,2015,,427
+55,54,Natal,Rata-rata Penduduk per desa/kelurahan,,2013,,930
+56,55,Natal,Rata-rata Penduduk per desa/kelurahan,,2014,,959
+57,56,Natal,Rata-rata Penduduk per desa/kelurahan,,2015,,969
+58,57,Muara Batang Gadis,Rata-rata Penduduk per desa/kelurahan,,2013,,926
+59,58,Muara Batang Gadis,Rata-rata Penduduk per desa/kelurahan,,2014,,956
+60,59,Muara Batang Gadis,Rata-rata Penduduk per desa/kelurahan,,2015,,966
+61,60,Siabu,Rata-rata Penduduk per desa/kelurahan,,2013,,1727
+62,61,Siabu,Rata-rata Penduduk per desa/kelurahan,,2014,,1781
+63,62,Siabu,Rata-rata Penduduk per desa/kelurahan,,2015,,1799
+64,63,Bukit Malintang,Rata-rata Penduduk per desa/kelurahan,,2013,,1012
+65,64,Bukit Malintang,Rata-rata Penduduk per desa/kelurahan,,2014,,1042
+66,65,Bukit Malintang,Rata-rata Penduduk per desa/kelurahan,,2015,,1053
+67,66,Naga Juang,Rata-rata Penduduk per desa/kelurahan,,2013,,533
+68,67,Naga Juang,Rata-rata Penduduk per desa/kelurahan,,2014,,549
+69,68,Naga Juang,Rata-rata Penduduk per desa/kelurahan,,2015,,555
+70,69,Mandailing Natal,Rata-rata Penduduk per desa/kelurahan,,2013,,1016
+71,70,Mandailing Natal,Rata-rata Penduduk per desa/kelurahan,,2014,,1048
+72,71,Mandailing Natal,Rata-rata Penduduk per desa/kelurahan,,2015,,1059
